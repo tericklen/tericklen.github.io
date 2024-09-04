@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tericklen.github.io/sitemap.html.gz
+Sitemap: https://tericklen.github.io/app/sitemap.html.gz
+Sitemap: https://tericklen.github.io/assets/sitemap.html.gz
+Sitemap: https://tericklen.github.io/css/sitemap.html.gz
+Sitemap: https://tericklen.github.io/includes/sitemap.html.gz
+Sitemap: https://tericklen.github.io/item/sitemap.html.gz
+Sitemap: https://tericklen.github.io/src/sitemap.html.gz
